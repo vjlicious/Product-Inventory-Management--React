@@ -1,0 +1,50 @@
+{
+  "Users": [
+    {
+      "email": "viju1997@gmail.com",
+      "password": "Abcdef$77$",
+      "firstName": "vijaykumar",
+      "lastName": "chandrashekar",
+      "location": "bangalore",
+      "phoneNumber": "8197522106",
+      "repassword": "Abcdef$77$",
+      "id": 1
+    }
+  ],
+  "productDetails": [
+    {
+      "Name": "One plus 8",
+      "Price": "40000",
+      "Quantity": "1",
+      "Description": "Best flagship with 120hz screen",
+      "Manufacturer": "One Plus",
+      "id": 1,
+      "count": 618
+    },
+    {
+      "Manufacturer": "Apple",
+      "Description": "Apples's new flagship",
+      "Price": "100000",
+      "Quantity": "1",
+      "Name": "MI a3",
+      "id": 2
+    },
+    {
+      "Manufacturer": "Samsung",
+      "Description": "samsung's new flagship",
+      "Price": "40000",
+      "Quantity": "1",
+      "Name": "samsung galaxy s10",
+      "id": 3
+    },
+    {
+      "Manufacturer": "Samsung ",
+      "Description": "Reasonable",
+      "Price": "15000",
+      "Quantity": "1",
+      "Name": "Samsung M30s",
+      "id": 4,
+      "count": null
+    }
+  ]
+}

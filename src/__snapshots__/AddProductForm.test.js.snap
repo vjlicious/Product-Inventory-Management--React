@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test  using full dom rendering Add productform renders correctly 1`] = `undefined`;
+
+exports[`Test AddProductForm using Shallow rendering has 5 text input elements 1`] = `undefined`;
+
+exports[`Test AddProductForm using Shallow rendering renders correctly 1`] = `undefined`;
+
+exports[`Test AddProductForm using full dom rendering Add productform renders correctly 1`] = `undefined`;
+
+exports[`Test AddProductForm using full shallow rendering  productlist's table 4th heading should be Quantity 1`] = `undefined`;
+
+exports[`Test AddProductForm using full shallow rendering  render 1`] = `ShallowWrapper {}`;
+
+exports[`Test ProductList using full dom rendering Add productform renders correctly 1`] = `undefined`;
